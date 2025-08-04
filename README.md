@@ -2,7 +2,7 @@
 
 -  To run locally
    ```sh
-   cd password-generator
+   cd counter-bgcolor-app
    npm i
    npm run dev
    ```
